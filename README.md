@@ -1,14 +1,15 @@
 # Hello, I'm Guilherme
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/gyamada22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a University Student at UFRJ with a profound interest in technology and a dedication to solving complex problems.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- Actively seeking Data Analytics Internship opportunities.
+- Currently practicing DSA with 73 LeetCode problems solved so far.
+- Typing speed 90 WPM.
+- Aspiring Data Engineer
+- Passionate about gaming, sports and podcasts.
 
 ## Skills
 ### 💻Tech Stack
