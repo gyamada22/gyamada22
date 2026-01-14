@@ -3,6 +3,38 @@
 <a href="https://leetcode.com/u/gyamada22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+### 📊 GitHub Activity & Contributions
+
+<p align="center">
+  <img 
+    src="https://metrics.lecoq.io/gyamada22?base=header%2Cactivity%2Ccommunity&base.indepth=true&config.timezone=America%2FSao_Paulo" 
+    alt="GitHub Metrics" 
+    width="85%" 
+  />
+</p>
+
+### 🔥 GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://metrics.lecoq.io/gyamada22?base=activity&config.timezone=America%2FSao_Paulo" 
+    alt="GitHub Contributions" 
+    width="80%" 
+  />
+</p>
+
+### 📈 Engineering Activity
+
+<p align="center">
+  <img 
+    src="https://metrics.lecoq.io/gyamada22?base=header%2Cactivity&base.indepth=true&config.timezone=America%2FSao_Paulo" 
+    alt="Engineering Activity Metrics" 
+    width="85%" 
+  />
+</p>
+
+
+
 ## 💻Tech Stack
 
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
