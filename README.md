@@ -43,7 +43,7 @@ I am a University Student at UFRJ with a profound interest in technology and a d
 ### 🛒 [Olist E-commerce](https://github.com/gyamada22/Ecommerce-Analysis)
 - ![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### 🧹 [Advanced SQL Data Cleaning](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Data_Cleaning/README.md)
+### 🧹 [SQL Data Cleaning](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Data_Cleaning/README.md)
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) 
 
 ### 🏢 [Tech Layoffs](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md)
