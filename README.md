@@ -32,10 +32,6 @@ I am a University Student at UFRJ with a profound interest in technology and a d
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
-</p>
-
 ## 🚀 Projects
 
 ### 📊 [Analise Mercado de Dados](https://github.com/gyamada22/Analise-Mercado-de-Dados)
@@ -51,4 +47,9 @@ I am a University Student at UFRJ with a profound interest in technology and a d
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) 
 
 ### 🏢 [Tech Layoffs](https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md)
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) 
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
+</p>
+
