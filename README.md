@@ -3,21 +3,11 @@
 <a href="https://leetcode.com/u/gyamada22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
-### 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gyamada22/github-metrics/main/github-metrics.svg" width="55%" />
-</p>
-
 ### 📊 GitHub Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
 </p>
-
-
-
 
 ## 💻Tech Stack
 
