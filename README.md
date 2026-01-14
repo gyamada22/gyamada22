@@ -4,7 +4,12 @@
 <a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-### 📅 Contribution Graph<p align="left">
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gyamada22/github-metrics/main/github-metrics.svg" width="55%" />
+</p>
+
 ### 📊 GitHub Contributions
 
 <p align="center">
