@@ -5,8 +5,12 @@
 
 
 ### 📅 Contribution Graph<p align="left">
+### 📊 GitHub Contributions
 
-<img src="https://ghchart.rshah.org/gyamada22" alt="Github Chart" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
