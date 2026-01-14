@@ -3,12 +3,6 @@
 <a href="https://leetcode.com/u/gyamada22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
-</p>
-
 ## 💻Tech Stack
 
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,6 +29,10 @@ I am a University Student at UFRJ with a profound interest in technology and a d
 - Typing speed 90 WPM.
 - Aspiring Data Engineer
 - Passionate about gaming, sports and podcasts.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gyamada22/gyamada22/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🚀 Projects
 
