@@ -1,4 +1,4 @@
-# Hello, I'm Guilherme
+# Hi, I'm Guilherme
 <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/gyamada22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:guilhermeyamada@poli.ufrj.br"><img src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
