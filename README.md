@@ -11,7 +11,7 @@ I am a University Student at UFRJ with a profound interest in technology and a d
 - Currently practicing DSA with 90 LeetCode problems solved so far.
 - Typing speed 108 WPM.
 - Aspiring Data Engineer
-- Passionate about gaming, sports and podcasts.
+- Passionate about gaming, sports and music.
 
 ## Tech Stack
 
