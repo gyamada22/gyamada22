@@ -7,7 +7,7 @@
 
 I am a University Student at UFRJ with a profound interest in technology and a dedication to solving complex problems.
 
-- Currently working as a Data Analytics Intern.
+- Currently working as a Data Analytics.
 - Aspiring Data Engineer
 - Typing speed 108 WPM.
 - DSA enthusiast with 136 LeetCode problems solved.
